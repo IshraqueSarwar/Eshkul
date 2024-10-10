@@ -1,0 +1,42 @@
+Welcome to UMBC Fortune Wheel!
+24 puzzles loaded.
+Category is: Thing
+_ ________ ________
+What letter would you like to try?
+A
+1 A found in the puzzle.
+A ________ ________
+What letter would you like to try?
+C
+No C found in the puzzle.
+What letter would you like to try?
+3 E found in the puzzle.
+A ___E____ _E____E_
+What letter would you like to try?
+i
+Enter an upper case letter only
+What letter would you like to try?
+I
+2 I found in the puzzle.
+A __IE____ _E_I__E_
+What letter would you like to try?
+F
+1 F found in the puzzle.
+A FRIEN___ RE_IN_ER
+What letter would you like to try?
+D
+2 D found in the puzzle.
+A FRIEND__ RE_INDER
+What letter would you like to try?
+L
+1 L found in the puzzle.
+A FRIENDL_ RE_INDER
+What letter would you like to try?
+Y
+1 Y found in the puzzle.
+A FRIENDLY RE_INDER
+What letter would you like to try?
+M
+1 M found in the puzzle.
+A FRIENDLY REMINDER
+You won!

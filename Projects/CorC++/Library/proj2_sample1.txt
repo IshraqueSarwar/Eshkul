@@ -1,0 +1,274 @@
+Welcome to UMBC Library
+Catalog populated with 965 books.
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+1
+  1. Batman: Year One (1987) by Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil with a score of 4.23
+  2. Go Set a Watchman (2015) by Harper Lee with a score of 3.31
+  3. When You Are Engulfed in Flames (2008) by David Sedaris with a score of 4.04
+  4. Daughter of Smoke & Bone (2011) by Laini Taylor with a score of 4.04
+  5. Red Queen (2015) by Victoria Aveyard with a score of 4.08
+  6. The Power of Habit (2011) by Charles Duhigg with a score of 4.03
+  7. Midnight in the Garden of Good and Evil (1994) by John Berendt with a score of 3.9
+  8. Hopeless (2012) by Colleen Hoover with a score of 4.34
+  9. A Little Princess (1905) by Frances Hodgson Burnett, Nancy Bond with a score of 4.2
+ 10. The Truth About Forever (2004) by Sarah Dessen with a score of 4.13
+N for Next, Q to quit
+n
+ 11. The horse and his boy (1954) by C.S. Lewis with a score of 3.9
+ 12. Last Sacrifice  (2010) by Richelle Mead with a score of 4.42
+ 13. Little House on the Prairie (1935) by Laura Ingalls Wilder, Garth Williams with a score of 4.18
+ 14. The Velveteen Rabbit (1922) by Margery Williams Bianco, William Nicholson with a score of 4.29
+ 15. Zen and the Art of Motorcycle Maintenance (1974) by Robert M. Pirsig with a score of 3.76
+ 16. The War of the Worlds (1897) by H.G. Wells, Arthur C. Clarke with a score of 3.8
+ 17. Pretty Little Liars (2006) by Sara Shepard with a score of 3.9
+ 18. Corduroy (1948) by Don Freeman with a score of 4.28
+ 19. The Omnivore's Dilemma (2006) by Michael Pollan with a score of 4.17
+ 20. Life After Life (2013) by Kate Atkinson with a score of 3.74
+N for Next, Q to quit
+N
+ 21. The Rescue (2000) by Nicholas Sparks with a score of 4.1
+ 22. Needful Things (1991) by Stephen King with a score of 3.87
+ 23. Voyager (1993) by Diana Gabaldon with a score of 4.38
+ 24. Cujo (1981) by Stephen King with a score of 3.65
+ 25. The Virgin Suicides (1993) by Jeffrey Eugenides with a score of 3.83
+ 26. Dead to the World (2004) by Charlaine Harris with a score of 4.13
+ 27. Tess of the d'Urbervilles: A Pure Woman Faithfully Presented (1891) by Thomas Hardy, Tim Dolin, Margaret R. Higonnet with a score of 3.77
+ 28. Madame Bovary (1856) by Gustave Flaubert, Margaret Mauldon, Malcolm Bowie, Mark Overstall with a score of 3.64
+ 29. The Phantom Tollbooth (1961) by Norton Juster, Jules Feiffer with a score of 4.22
+ 30. The Way of Kings (2010) by Brandon Sanderson with a score of 4.64
+N for Next, Q to quit
+Q
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+2
+What title would you like to search for?
+King
+ 30. The Way of Kings (2010) by Brandon Sanderson with a score of 4.64
+169. The Tragedie of King Lear (1603) by William Shakespeare with a score of 3.89
+208. The Iron King (2010) by Julie Kagawa with a score of 3.92
+748. Last Argument of Kings (2008) by Joe Abercrombie with a score of 4.26
+763. The Once and Future King (1958) by T.H. White with a score of 4.08
+797. The King of Torts (2003) by John Grisham with a score of 3.67
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+0
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+6
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+3
+Which book would you like to add? (-1 for list)
+-1
+  1. Batman: Year One (1987) by Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil with a score of 4.23
+  2. Go Set a Watchman (2015) by Harper Lee with a score of 3.31
+  3. When You Are Engulfed in Flames (2008) by David Sedaris with a score of 4.04
+  4. Daughter of Smoke & Bone (2011) by Laini Taylor with a score of 4.04
+  5. Red Queen (2015) by Victoria Aveyard with a score of 4.08
+  6. The Power of Habit (2011) by Charles Duhigg with a score of 4.03
+  7. Midnight in the Garden of Good and Evil (1994) by John Berendt with a score of 3.9
+  8. Hopeless (2012) by Colleen Hoover with a score of 4.34
+  9. A Little Princess (1905) by Frances Hodgson Burnett, Nancy Bond with a score of 4.2
+ 10. The Truth About Forever (2004) by Sarah Dessen with a score of 4.13
+N for Next, Q to quit
+n
+ 11. The horse and his boy (1954) by C.S. Lewis with a score of 3.9
+ 12. Last Sacrifice  (2010) by Richelle Mead with a score of 4.42
+ 13. Little House on the Prairie (1935) by Laura Ingalls Wilder, Garth Williams with a score of 4.18
+ 14. The Velveteen Rabbit (1922) by Margery Williams Bianco, William Nicholson with a score of 4.29
+ 15. Zen and the Art of Motorcycle Maintenance (1974) by Robert M. Pirsig with a score of 3.76
+ 16. The War of the Worlds (1897) by H.G. Wells, Arthur C. Clarke with a score of 3.8
+ 17. Pretty Little Liars (2006) by Sara Shepard with a score of 3.9
+ 18. Corduroy (1948) by Don Freeman with a score of 4.28
+ 19. The Omnivore's Dilemma (2006) by Michael Pollan with a score of 4.17
+ 20. Life After Life (2013) by Kate Atkinson with a score of 3.74
+N for Next, Q to quit
+N
+ 21. The Rescue (2000) by Nicholas Sparks with a score of 4.1
+ 22. Needful Things (1991) by Stephen King with a score of 3.87
+ 23. Voyager (1993) by Diana Gabaldon with a score of 4.38
+ 24. Cujo (1981) by Stephen King with a score of 3.65
+ 25. The Virgin Suicides (1993) by Jeffrey Eugenides with a score of 3.83
+ 26. Dead to the World (2004) by Charlaine Harris with a score of 4.13
+ 27. Tess of the d'Urbervilles: A Pure Woman Faithfully Presented (1891) by Thomas Hardy, Tim Dolin, Margaret R. Higonnet with a score of 3.77
+ 28. Madame Bovary (1856) by Gustave Flaubert, Margaret Mauldon, Malcolm Bowie, Mark Overstall with a score of 3.64
+ 29. The Phantom Tollbooth (1961) by Norton Juster, Jules Feiffer with a score of 4.22
+ 30. The Way of Kings (2010) by Brandon Sanderson with a score of 4.64
+N for Next, Q to quit
+N
+ 31. Club Dead (2003) by Charlaine Harris with a score of 4.03
+ 32. It's Kind of a Funny Story (2006) by Ned Vizzini with a score of 4.14
+ 33. After You (2015) by Jojo Moyes with a score of 3.7
+ 34. The Language of Flowers (2011) by Vanessa Diffenbaugh with a score of 4.07
+ 35. Batman: The Dark Knight Returns (1986) by Frank Miller, Klaus Janson, Lynn Varley with a score of 4.25
+ 36. The Angel Experiment (2005) by James Patterson with a score of 4.08
+ 37. High Fidelity (1995) by Nick Hornby with a score of 3.94
+ 38. The Guardian (2003) by Nicholas Sparks with a score of 4.14
+ 39. Oryx and Crake (2003) by Margaret Atwood with a score of 4
+ 40. Men Are from Mars, Women Are from Venus Book of Days: 365 Inspirations to Enrich Your Relationships (1998) by John Gray with a score of 3.52
+N for Next, Q to quit
+N
+Which book would you like to add? (-1 for list)
+40
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+4
+**Current Waitlist**
+1. Men Are from Mars, Women Are from Venus Book of Days: 365 Inspirations to Enrich Your Relationships (1998) by John Gray with a score of 3.52
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+3
+Which book would you like to add? (-1 for list)
+37
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+Which book would you like to add? (-1 for list)
+0
+Invalid number
+966
+Which book would you like to add? (-1 for list)
+Invalid number
+-2
+Which book would you like to add? (-1 for list)
+965
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+4
+**Current Waitlist**
+1. Men Are from Mars, Women Are from Venus Book of Days: 365 Inspirations to Enrich Your Relationships (1998) by John Gray with a score of 3.52
+2. High Fidelity (1995) by Nick Hornby with a score of 3.94
+3. Night Road (2011) by Kristin Hannah with a score of 4.17
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+2
+What title would you like to search for?
+Candy
+No books with that title found.
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+2
+What title would you like to search for?
+Martian
+ 98. The Martian Chronicles (1950) by Ray Bradbury with a score of 4.12
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+3
+Which book would you like to add? (-1 for list)
+98
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+4
+**Current Waitlist**
+1. Men Are from Mars, Women Are from Venus Book of Days: 365 Inspirations to Enrich Your Relationships (1998) by John Gray with a score of 3.52
+2. High Fidelity (1995) by Nick Hornby with a score of 3.94
+3. Night Road (2011) by Kristin Hannah with a score of 4.17
+4. The Martian Chronicles (1950) by Ray Bradbury with a score of 4.12
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+3
+What title would you like to search for?
+Pi
+ 90. The True Story of the Three Little Pigs (1989) by Jon Scieszka, Lane Smith with a score of 4.29
+205. Scott Pilgrim, Volume 1: Scott Pilgrim's Precious Little Life (2004) by Bryan Lee O'Malley with a score of 4.18
+281. The Unlikely Pilgrimage of Harold Fry (2012) by Rachel Joyce with a score of 3.89
+432. The Scarlet Pimpernel (1905) by Emmuska Orczy with a score of 4.06
+457. The Sweetness at the Bottom of the Pie (2009) by Alan Bradley with a score of 3.81
+622. Na margem do rio Piedra eu sentei e chorei (1994) by Paulo Coelho, Alan R. Clarke with a score of 3.57
+717. The Pilot's Wife (1998) by Anita Shreve with a score of 3.5
+732. I Am Pilgrim (2013) by Terry Hayes with a score of 4.23
+933. Pines (2012) by Blake Crouch with a score of 3.88
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+2
+Which book would you like to add? (-1 for list)
+205
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+4
+**Current Waitlist**
+1. Men Are from Mars, Women Are from Venus Book of Days: 365 Inspirations to Enrich Your Relationships (1998) by John Gray with a score of 3.52
+2. High Fidelity (1995) by Nick Hornby with a score of 3.94
+3. Night Road (2011) by Kristin Hannah with a score of 4.17
+4. The Martian Chronicles (1950) by Ray Bradbury with a score of 4.12
+5. Scott Pilgrim, Volume 1: Scott Pilgrim's Precious Little Life (2004) by Bryan Lee O'Malley with a score of 4.18
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+3
+No additional books can be added to the wait list.
+What would you like to do?
+1. Display All Books
+2. Search Catalog for Book Title
+3. Add Book to Waitlist
+4. Display Waitlist
+5. Quit
+5
+Thank you for using the UMBC Library
